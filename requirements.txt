@@ -1,0 +1,5 @@
+numpy
+augly
+IPython
+pilgram
+opencv-python
